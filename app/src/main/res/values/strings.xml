@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">E-Waste Erase</string>
+    <string-array name="register_array">
+        <item>Donor</item>
+        <item>Recycler</item>
+    </string-array>
+    <string-array name="appliances_array">
+        <item>Air conditioner</item>
+        <item>Blender</item>
+        <item>Camcorder</item>
+        <item>Ceiling fan</item>
+        <item>Clock</item>
+        <item>Graphing calculator</item>
+        <item>Clothes dryer</item>
+        <item>Clothes iron</item>
+        <item>Juicer</item>
+        <item>Washing machine</item>
+        <item>Combo washer dryer</item>
+        <item>Computer</item>
+        <item>Modem</item>
+        <item>Mouse</item>
+        <item>Printer</item>
+        <item>Keyboard</item>
+        <item>Charging Wires</item>
+        <item>Convection oven</item>
+        <item>Deep fryer</item>
+        `
+        <item>Dehumidifier</item>
+        <item>Digital camera(NON Dslr)</item>
+        <item>Digital camera (DSLR SMALL)</item>
+        <item>DVD player</item>
+        <item>Electric cooker</item>
+        <item>Electric razor</item>
+        <item>Electric toothbrush</item>
+        <item>Electric water boiler</item>
+        <item>Desk fan Food processor</item>
+        <item>Freezer</item>
+        <item>Garbage disposal unit</item>
+        <item>Gaming devices</item>
+        <item>Iron</item>
+        <item>Microphone</item>
+        <item>Microwave oven</item>
+        <item>Mixer</item>
+        <item>Oil heater </item>
+        <item>Oven</item>
+        <item>Phone(mobile)</item>
+        <item>Pressure-cooker</item>
+        <item>Radiator (heating)</item>
+        <item>Refrigerator</item>
+        <item>Stereo</item>
+        <item>Telephone(landline)</item>
+        <item>Television &gt;32 inches</item>
+        <item>Television &lt;32 inches</item>
+        <item>Receiver</item>
+        <item>Remote</item>
+        <item>Speaker</item>
+        <item>Toaster</item>
+        <item>Vacuum cleaner</item>
+        <item>Waffle iron</item>
+        <item>Cooker</item>
+        <item>Water purifier</item>
+    </string-array>
+</resources>

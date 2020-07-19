@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987637207252",
+    "firebase_url": "https://e-waste-erase.firebaseio.com",
+    "project_id": "e-waste-erase",
+    "storage_bucket": "e-waste-erase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987637207252:android:8fe84784a393e45b34ab41",
+        "android_client_info": {
+          "package_name": "com.example.e_wasteerase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987637207252-bgoehhs84sf5c4ohieof0cag90mo2uli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_wasteerase",
+            "certificate_hash": "ae34d26dfb83dfeee2e60895e9e5636febb57cd3"
+          }
+        },
+        {
+          "client_id": "987637207252-a197irl9n1hvd45en2c19cs53rtds2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyREV-i2k5oZgDzusueT6GZB3m1m_94Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987637207252-a197irl9n1hvd45en2c19cs53rtds2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
